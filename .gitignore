@@ -1,0 +1,12 @@
+# Credenciales privadas
+config.php
+.env
+.env.local
+
+# Archivos de prueba con contraseñas
+cuentas.txt
+preparar_usuarios.php
+
+# Respaldos y archivos temporales
+*_respaldo.php
+*.log
